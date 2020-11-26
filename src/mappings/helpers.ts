@@ -7,7 +7,8 @@ import { User, Bundle, Token, LiquidityPosition, LiquidityPositionSnapshot, Pair
 import { Factory as FactoryContract } from '../types/templates/Pair/Factory'
 
 export const ADDRESS_ZERO = '0x0000000000000000000000000000000000000000'
-export const FACTORY_ADDRESS = '0xCe8fd65646F2a2a897755A1188C04aCe94D2B8D0'
+// To Update with our new mainnet factory proxy address & Ensure it works with proxies
+export const FACTORY_ADDRESS = '0xc7fa7951187f91153851b0f9ab2d032abd0f2f0c'
 
 export let ZERO_BI = BigInt.fromI32(0)
 export let ONE_BI = BigInt.fromI32(1)
