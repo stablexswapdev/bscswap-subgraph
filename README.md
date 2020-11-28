@@ -1,4 +1,4 @@
-# BSCswap Subgraph
+# StableXSwap Subgraph
 
 [BSCswap](https://bscswap.com/) is a decentralized protocol for automated token exchange on Binance Smart Chain.
 
